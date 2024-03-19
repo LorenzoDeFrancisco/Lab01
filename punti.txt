@@ -1,4 +1,6 @@
 Paolo 4
+Lollo 3
+lollo 2
 Lucia 1
 Mario 1
 Giuseppe 0
